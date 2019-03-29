@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 竹譜
-#+DATE: 2019-03-29 21:28:01.285575
+#+DATE: 2019-03-29 21:28:01.324835
 #+PROPERTY: ID KR3i0040
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3i0040_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部九¶
@@ -353,7 +353,7 @@
 ¶
 　　筨&KR2221;竹大如脚指堅厚修直腹中白膜闌隔狀如濕¶
 麵生衣將成竹而筍皮未落輒有細蟲齧之隕籜之¶
-後蟲齧處往往成赤文頗似繡𦘕可愛南康所生見¶
+後蟲齧處往往成赤文頗似繡畫可愛南康所生見¶
 沈志也¶
 ¶
 　　箛&KR2426;誕節内實外澤作貢漢陽以供輅䇿¶
